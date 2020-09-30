@@ -1,6 +1,6 @@
 import time
 import random
-
+#You have no idea how happy I am that this runs as I wanted it to.
 score = 0
 
 print("Times Tables! Let's learn them, with TT Guru!")
